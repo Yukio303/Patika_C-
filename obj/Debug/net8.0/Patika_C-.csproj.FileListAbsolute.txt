@@ -1,0 +1,15 @@
+C:\Users\akake\OneDrive\Belgeler\GitHub\Patika_C-\bin\Debug\net8.0\Patika_C-.exe
+C:\Users\akake\OneDrive\Belgeler\GitHub\Patika_C-\bin\Debug\net8.0\Patika_C-.deps.json
+C:\Users\akake\OneDrive\Belgeler\GitHub\Patika_C-\bin\Debug\net8.0\Patika_C-.runtimeconfig.json
+C:\Users\akake\OneDrive\Belgeler\GitHub\Patika_C-\bin\Debug\net8.0\Patika_C-.dll
+C:\Users\akake\OneDrive\Belgeler\GitHub\Patika_C-\bin\Debug\net8.0\Patika_C-.pdb
+C:\Users\akake\OneDrive\Belgeler\GitHub\Patika_C-\obj\Debug\net8.0\Patika_C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akake\OneDrive\Belgeler\GitHub\Patika_C-\obj\Debug\net8.0\Patika_C-.AssemblyInfoInputs.cache
+C:\Users\akake\OneDrive\Belgeler\GitHub\Patika_C-\obj\Debug\net8.0\Patika_C-.AssemblyInfo.cs
+C:\Users\akake\OneDrive\Belgeler\GitHub\Patika_C-\obj\Debug\net8.0\Patika_C-.csproj.CoreCompileInputs.cache
+C:\Users\akake\OneDrive\Belgeler\GitHub\Patika_C-\obj\Debug\net8.0\Patika_C-.sourcelink.json
+C:\Users\akake\OneDrive\Belgeler\GitHub\Patika_C-\obj\Debug\net8.0\Patika_C-.dll
+C:\Users\akake\OneDrive\Belgeler\GitHub\Patika_C-\obj\Debug\net8.0\refint\Patika_C-.dll
+C:\Users\akake\OneDrive\Belgeler\GitHub\Patika_C-\obj\Debug\net8.0\Patika_C-.pdb
+C:\Users\akake\OneDrive\Belgeler\GitHub\Patika_C-\obj\Debug\net8.0\Patika_C-.genruntimeconfig.cache
+C:\Users\akake\OneDrive\Belgeler\GitHub\Patika_C-\obj\Debug\net8.0\ref\Patika_C-.dll
